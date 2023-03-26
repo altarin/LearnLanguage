@@ -1,0 +1,18 @@
+@import './../../variables.scss';
+
+.header{
+    height: 100px;
+    background-color: $olive-backgr;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.header-name {
+    font-size: 40px;
+    color: $white-font;
+}
+.header-login{
+    color: $white-font;
+    font-size: 26px;
+}
