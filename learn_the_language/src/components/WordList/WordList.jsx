@@ -1,4 +1,4 @@
-import './wordList.scss';
+import './WordList.scss';
 import React from 'react';
 
 function WordList(props) {

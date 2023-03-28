@@ -1,4 +1,4 @@
-import './wordCardFront.scss';
+import './WordCardFront.scss';
 
 function WordCardFront(props) {
     return (

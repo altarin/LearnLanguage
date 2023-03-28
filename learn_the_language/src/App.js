@@ -1,11 +1,11 @@
 import styles from './App.css';
 import './style.scss';
 import React from 'react';
-import Header from './components/header/header';
-import Footer from './components/footer/footer';
-import WordCardFront from './components/wordCardFront/wordCardFront';
-import WordCardBack from './components/wordCardBack/wordCardBack';
-import WordList from './components/wordList/wordList';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
+import WordCardFront from './components/WordCardFront/WordCardFront';
+import WordCardBack from './components/WordCardBack/WordCardBack';
+import WordList from './components/WordList/WordList';
 
 const words = [
   {

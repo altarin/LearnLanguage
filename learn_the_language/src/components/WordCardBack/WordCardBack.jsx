@@ -1,4 +1,4 @@
-import './wordCardBack.scss';
+import './WordCardBack.scss';
 
 function WordCardBack(props) {
     return (
